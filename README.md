@@ -1,4 +1,4 @@
-* Microsoft Entra ID IAM Lab
+**Microsoft Entra ID IAM Lab
 
 This lab demonstrates core Identity and Access Management (IAM) tasks using Microsoft Entra ID in a cloud environment.
 
